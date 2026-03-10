@@ -55,11 +55,11 @@ make up # Docker levanta todo, las migraciones corren solas, el café se sirve c
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SparkMed22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SparkMed22&layout=compact&theme=github_dark" />
 </p>
----
 
 ### 🐍 Historial de actividad
 
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
 > [!NOTE]
