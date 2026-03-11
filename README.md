@@ -22,6 +22,7 @@ Estudiante de **Ingeniería en Informática**. Mi religión es la reproducibilid
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-008080?style=for-the-badge&logo=gnu&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
