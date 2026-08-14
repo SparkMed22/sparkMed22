@@ -50,12 +50,6 @@ make up # Docker levanta todo, las migraciones corren solas, el café se sirve c
 
 ---
 
-### 📊 Estadísticas de combate
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SparkMed22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SparkMed22&layout=compact&theme=github_dark" />
-</p>
 
 ### 🐍 Historial de actividad
 
